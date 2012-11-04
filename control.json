@@ -1,0 +1,8 @@
+{
+    "name"    : "webapps-phpexcel-lib", 
+    "version" : "0.1.0",
+    "classes" : ["PHPExcel"],
+    "deps"    : [
+        "webapps-framework-lib"
+    ]
+}
